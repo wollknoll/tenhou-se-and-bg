@@ -17,7 +17,7 @@
 
 ## Customization
 
-Simply change the .json with your favourite files. Voicelines for several characters are already uploaded.
+Right now it uses Hat and Mommy. Simply change the .json with your favourite files. Voicelines for several characters are already uploaded.
 
 ## Tenhou explanation
 
