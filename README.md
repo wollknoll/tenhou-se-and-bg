@@ -22,6 +22,33 @@ Right now it uses Hat and Mommy. Simply change the .json with your favourite fil
 ## Tenhou explanation
 
 https://tenhou.net/3/se_setting_sample.html
+- json.se[ 1]=DORA
+- json.se[ 3]=CLOCK
+- json.se[ 4]=KACHI1
+- json.se[ 5]=KACHI2
+- json.se[ 6]=DA
+- json.se[ 7]=TICK
+- json.se[ 8]=NAKI
+- json.se[ 9]=NUKI
+- json.se[10]=AGARI
+- json.se[11]=YAKU
+
+- json.se[25]=PON(M)
+- json.se[26]=PON(F)
+- json.se[27]=KAN(M)
+- json.se[28]=KAN(F)
+- json.se[29]=CHII(M)
+- json.se[30]=CHII(F)
+- json.se[31]=REACH(M)
+- json.se[32]=REACH(F)
+- json.se[33]=RON(M)
+- json.se[34]=RON(F)
+- json.se[35]=TSUMO(M)
+- json.se[36]=TSUMO(F)
+
+- json.se[40]=START(defulat:DORA)
+- json.se[41]=YAKUMAN(default:DORA)
+
 
 ## Original dev
 https://github.com/TanakaKotoha/tenhou-se-and-bg
