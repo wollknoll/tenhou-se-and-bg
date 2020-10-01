@@ -19,9 +19,10 @@
 
 Right now it uses Hat and Mommy. Simply change the .json with your favourite files. Voicelines for several characters are already uploaded.
 
-## Tenhou explanation
+## Tenhou
 
-https://tenhou.net/3/se_setting_sample.html
+List of the codes of the sound files :
+
 - json.se[ 1]=DORA
 - json.se[ 3]=CLOCK
 - json.se[ 4]=KACHI1
@@ -49,6 +50,7 @@ https://tenhou.net/3/se_setting_sample.html
 - json.se[40]=START(defulat:DORA)
 - json.se[41]=YAKUMAN(default:DORA)
 
+Taken from https://tenhou.net/3/se_setting_sample.html
 
 ## Original dev
 https://github.com/TanakaKotoha/tenhou-se-and-bg
