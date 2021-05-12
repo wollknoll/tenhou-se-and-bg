@@ -10,7 +10,7 @@
 
 4   Uncheck the default setting.
 
-5   Paste this link ：https://raw.githubusercontent.com/watterle/tenhou-se-and-bg/master/SEE.json
+5   Paste this link ：https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/SEE.json
 
 6   Test if it works with the volume settings.
 
