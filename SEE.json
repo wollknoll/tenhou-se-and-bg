@@ -1,20 +1,20 @@
 {
   "ver":1.0,
   "se":{
-    "3":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/countdown5.mp3"},
-    "25":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/ichihime/act_pon.mp3"},
-    "26":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/kawei/act_pon.mp3"},
-    "27":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/ichihime/act_kan.mp3"},
-    "28":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/kawei/act_kan.mp3"},
-    "29":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/ichihime/act_chi.mp3"},
-    "30":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/kawei/act_chi.mp3"},
-    "31":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/ichihime/act_rich.mp3"},
-    "32":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/kawei/act_rich.mp3"},
-    "33":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/ichihime/act_ron.mp3"},
-    "34":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/kawei/act_ron.mp3"},
-    "35":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/ichihime/act_tumo.mp3"},
-    "36":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/kawei/act_tumo.mp3"},
-    "40":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/winlose.mp3"},
-    "41":{"url":"https://raw.githubusercontent.com/wollknoll/tenhou-se-and-bg/master/yakuman.mp3"}
+    "3":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/countdown5.mp3"},
+    "25":{"url":"https://github.com/wollknoll/tenhou-se-and-bg/blob/master/ichihime/act_pon.mp3?raw=true"},
+    "26":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/kawei/act_pon.mp3"},
+    "27":{"url":"https://github.com/wollknoll/tenhou-se-and-bg/blob/master/ichihime/act_kan.mp3?raw=true"},
+    "28":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/kawei/act_kan.mp3"},
+    "29":{"url":"https://github.com/wollknoll/tenhou-se-and-bg/blob/master/ichihime/act_chi.mp3?raw=true"},
+    "30":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/kawei/act_chi.mp3"},
+    "31":{"url":"https://github.com/wollknoll/tenhou-se-and-bg/blob/master/ichihime/act_rich.mp3?raw=true"},
+    "32":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/kawei/act_rich.mp3"},
+    "33":{"url":"https://github.com/wollknoll/tenhou-se-and-bg/blob/master/ichihime/act_ron.mp3?raw=true"},
+    "34":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/kawei/act_ron.mp3"},
+    "35":{"url":"https://github.com/wollknoll/tenhou-se-and-bg/blob/master/ichihime/act_tumo.mp3?raw=true"},
+    "36":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/kawei/act_tumo.mp3"},
+    "40":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/yakuman.mp3"}
   }
 }
